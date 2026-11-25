@@ -112,15 +112,6 @@ All figures are calculated from the full dataset. P-values come from simple test
 | Exposure | Among current smokers, the share with a recorded condition is 59.0% at Low exposure, 57.8% at Moderate and 53.9% at High (p = 0.07). There is no rising pattern. |
 | BP and cholesterol | 5,053 patients are Elevated, 2,500 Lower Range and 2,447 High. Average cholesterol is 195.4, 197.2 and 197.9 mg/dL. The gap of about 2.5 mg/dL is statistically detectable (p = 0.017) but small. |
 
-## Recommendations snapshot
-
-| Recommendation | Strength of support |
-|---|---|
-| Do not target smoking interventions by age group, gender or region based on this data, because the smoker share is about 30% almost everywhere | Data-backed |
-| Review how non-organ conditions are classified: Hypertension, High Cholesterol and Type 2 Diabetes (1,237 patients) all sit under "No Recorded Organ Condition" | Data-backed |
-| Record cigarettes per day for former smokers, so their past exposure can be estimated and compared | Data gap |
-| Confirm the data source before using any of this for clinical or policy decisions, because the patterns are unusually flat | Reasoned, not measured |
-
 ## Design notes
 
 - Dark theme with a custom Power BI theme (dark green-black canvas, slightly lighter cards).
